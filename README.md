@@ -1,6 +1,6 @@
 # employees-db
 
-A CLI employee database built in C, based on Low Level Academy course requirements.
+A CLI employee database built in C, based on Low Level Academy course requirements
 
 ## Build
 ```bash
